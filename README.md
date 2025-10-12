@@ -2,6 +2,6 @@
 
 Simple adapter bord for the Spaghetti AP with ESP32-C6 and ESP32-S3 for the [OpenEPaperLink Project](https://github.com/OpenEPaperLink/OpenEPaperLink/wiki/Beginners-Guide-for-an-easy-to-build-Access-Point-(aka-spaghetti-AP)).
 
-##Image
+## Image
 
-![Screenshot of the board.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of the board.](/Screenshot 2025-10-12 153515.png)
