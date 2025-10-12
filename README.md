@@ -4,4 +4,4 @@ Simple adapter bord for the Spaghetti AP with ESP32-C6 and ESP32-S3 for the [Ope
 
 ## Image
 
-![Screenshot of the board.](/Screenshot 2025-10-12 153515.png)
+![Screenshot of the board.](https://github.com/Parodontitis/OpenEPaperLink-Spaghetti-AP-Adapter-Board/blob/main/Screenshot%202025-10-12%20153515.png)
